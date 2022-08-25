@@ -1,3 +1,3 @@
 # Saudacao-dinamica com Java Script
 
-https://evandropcs.github.io/Sauda-o-din-mica-JS/
+https://evandropcs.github.io/Saudacao-Dinamica-JS/
