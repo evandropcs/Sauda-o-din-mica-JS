@@ -1,0 +1,34 @@
+body{
+    background: rgb(70, 142, 236);
+    font: normal, 15pt, Arial;
+}
+
+Header{
+    color: white;
+    text-align: center;
+
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: 10% auto;
+    box-shadow: 7px 7px 10px rgba(0, 0, 0, 0.363);
+}
+
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
+
+#fotoTurno{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
