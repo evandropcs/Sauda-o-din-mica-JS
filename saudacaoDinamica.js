@@ -4,8 +4,7 @@ function carregar(){
     let fotoDiv = document.getElementById('foto')
     let fotoTurno = document.getElementById('fotoTurno')
     let data = new Date()
-    // let hora = data.getHours()
-    let hora = 18
+    let hora = data.getHours()
     msg.style.textAlign='center'
     fotoDiv.style.textAlign='center'
 
